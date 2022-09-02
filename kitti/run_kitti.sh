@@ -1,0 +1,1 @@
+/ORB_SLAM2/Examples/Stereo/stereo_kitti /ORB_SLAM2/Vocabulary/ORBvoc.txt $HOME/ws/orb-slam2-playground/kitti/KITTI.yaml $HOME/ws/curly_slam/data/kitty05
